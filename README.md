@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Niket Bharai</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tobottlh9euq7p37gvgq8v39o83qqbzfhvu62vdl&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center">
+
 - NextJS Auth With Firebase [Click Here](https://github.com/niketBharai/auth-demo)
 
 - React Redux Demo [Click Here](https://github.com/niketBharai/redux-complete)
