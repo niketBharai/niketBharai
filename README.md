@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Niket Bharai</h1>
+<h1 align="center">Hi, I'm Niket Bharai </> </h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 - NextJS Auth With Firebase [Click Here](https://github.com/niketBharai/auth-demo)
